@@ -1,0 +1,40 @@
+.container{
+background-color:   hsl(30, 38%, 92%);
+}
+.row{
+   
+}
+img{
+height:700px;
+
+}
+#info{
+   
+}
+h6{
+    margin-top: 50px;
+    color: rgb(161, 165, 165);
+}
+h1{
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ font-size: 50px;
+ font-weight: 700;
+}
+p{
+    color: rgb(161, 165, 165);
+    font-size: 25px;
+}
+#price2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ font-size: 50px;
+ font-weight: 700; 
+ color: rgba(28, 109, 28, 0.79);
+}
+.btn{
+    color:white;
+background-color:  rgba(28, 109, 28, 0.79);
+padding: 20px;
+}
+.add{
+    justify-items: center;
+}
